@@ -1,10 +1,10 @@
-# Calculator No Interface
-It was made in Python, it doesn't have a graphical interface and also to run you need Python
-# Origin
-The project was supposed to be an exercise that the teacher passed on to the students, so with the code I made I'm making a template for anyone who wants to modify it too
-# Credits
+# Calculadora Sem Interface
+Foi feito em Python, não possui interface gráfica e também para rodar você precisa de Python
+# Origem
+O projeto era pra ser um exercício que o professor passou para os alunos, então com o código que fiz estou fazendo um template para quem quiser modificar também
+# Créditos
 - GuineaPig
-  - Coding
+  - Codificação
 # Requirements
 - Python
 - Pycharm / Visual Studio Code
