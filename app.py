@@ -1,6 +1,6 @@
 # import os 
 
-print('----> Calculato No Iterface <----')
+print('----> Calculator No Iterface <----')
 
 v = ('1.0')
 n1 = int(input('Add with what number > '))
