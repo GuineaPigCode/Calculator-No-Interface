@@ -5,6 +5,9 @@ O projeto era pra ser um exercício que o professor passou para os alunos, entã
 # Créditos
 - GuineaPig
   - Codificação
+
+- KalelCaires
+  - O Que Viu O Projeto!
 # Requirements
 - Python
 - Pycharm / Visual Studio Code
