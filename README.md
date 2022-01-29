@@ -5,8 +5,8 @@ The project was supposed to be an exercise that the teacher passed on to the stu
 # Credits
 - GuineaPig
   - Coding
-  - 
- - KalelCaires
+   
+- KalelCaires
   - Cool Guy :)
 # Requirements
 - Python
